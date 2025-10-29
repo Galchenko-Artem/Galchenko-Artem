@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">Nice to meet you! My name is Artem and I'm a Full Stack JS Developer.</h3>
+<h3 align="center">Nice to meet you! My name is Artem and I'm a Frontend JS Developer.</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Galchenko-Artem](https://github.com/Galchenko-Artem)
 
