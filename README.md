@@ -1,7 +1,5 @@
 <h1 align="center">Привет! Я — Артём 👋</h1>
-<p align="center">
-Frontend-разработчик (React, TypeScript) • 3+ года коммерческого опыта
-</p>
+<h3 align="center">Frontend-разработчик (React, TypeScript)</h3>
 
 <p align="center">
 <a href="tel:+79932260831">📞 +7 (993) 226-08-31</a> • 
