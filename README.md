@@ -14,13 +14,6 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh6dzFrbmE1YWZvbGYyMzNlY2lzZndnYmhvY2htYXgzajJmbnFyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="250" alt="coding cat"/>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ0dDduazJ2MW1yYWt6OGdoamNodG1vYTNlbm11a2Q3OWx0dmRzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjrYDwbjnK8x36xZIO/giphy.gif" width="300" alt="code rain"/>
-</p>
-
-
-
-
 ### 🛠 Технологии
 **Core:** React 18, TypeScript, Redux Toolkit / Dva.js, React Query, Next.js (App Router), Vite, Webpack  
 **UI:** Ant Design, Material UI, Tailwind CSS, SCSS  
