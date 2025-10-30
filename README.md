@@ -7,6 +7,10 @@
 <a href="mailto:galchenko.a.n@yandex.com">✉️ galchenko.a.n@yandex.com</a>
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF6dWlsdWdzbDl0dDByaDNuc2Y5NmpoMzJybTFlb3c5aXR2dnU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding guy"/>
+</p>
+
 ### 🛠 Технологии
 **Core:** React 18, TypeScript, Redux Toolkit / Dva.js, React Query, Next.js (App Router), Vite, Webpack  
 **UI:** Ant Design, Material UI, Tailwind CSS, SCSS  
