@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Frontend+Developer+(React%2C+TypeScript);Clean+Code+%26+Lazy+Loading+Fan;Always+Refactoring+Something+😄" alt="Typing SVG" />
 </p>
-<h3 align="center">Frontend-разработчик (React, TypeScript)</h3>
 <p align="center">
 <a href="tel:+79932260831">📞 +7 (993) 226-08-31</a> • 
 <a href="https://t.me/GalchenkoArtem">💬 Telegram: @GalchenkoArtem</a> • 
