@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF6dWlsdWdzbDl0dDByaDNuc2Y5NmpoMzJybTFlb3c5aXR2dnU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding guy"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh6dzFrbmE1YWZvbGYyMzNlY2lzZndnYmhvY2htYXgzajJmbnFyYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" width="250" alt="coding cat"/>
 </p>
 
 ### 🛠 Технологии
