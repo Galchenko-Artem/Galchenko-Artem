@@ -1,6 +1,6 @@
 <h1 align="center">Привет! Я — Артём 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Frontend+Developer+(React%2C+TypeScript);Clean+Code+%26+Lazy+Loading+Fan;Always+Refactoring+Something+😄" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Frontend+Developer+(React%2C+TypeScript);Clean+Code+%26+Lazy+Loading+Fan;Always+refactoring+something+😄" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF6dWlsdWdzbDl0dDByaDNuc2Y5NmpoMzJybTFlb3c5aXR2dnU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding guy"/>
