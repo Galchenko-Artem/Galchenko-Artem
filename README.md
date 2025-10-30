@@ -18,11 +18,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWQ0dDduazJ2MW1yYWt6OGdoamNodG1vYTNlbm11a2Q3OWx0dmRzeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gjrYDwbjnK8x36xZIO/giphy.gif" width="300" alt="code rain"/>
 </p>
 
-<h1 align="center">
-  Привет! Я — Артём 👋 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" alt="React logo" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWMzOXQ3bWRmNjJmOHNnNWp3Z3J0cGVlMmhqNmJubGsyb2tybm9haCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="25" alt="loading" />
-</h1>
+
 
 
 ### 🛠 Технологии
