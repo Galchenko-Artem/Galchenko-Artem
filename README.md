@@ -1,28 +1,30 @@
 <h1 align="center">Привет! Я — Артём 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Frontend+разработчик+(React,+TypeScript);Люблю+чистый+код+и+удобный+интерфейс;Всегда+что-то+рефакторю+%F0%9F%98%84" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=58A6FF&center=true&vCenter=true&width=450&lines=Frontend+Developer+(React%2C+TypeScript);Clean+Code+%26+Lazy+Loading+Fan;Always+Refactoring+Something+😄" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  📞 <a href="tel:+79932260831">+7 (993) 226-08-31</a> • 
-  💬 <a href="https://t.me/GalchenkoArtem">@GalchenkoArtem</a> • 
-  ✉️ <a href="mailto:galchenko.a.n@yandex.com">galchenko.a.n@yandex.com</a>
-</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTF6dWlsdWdzbDl0dDByaDNuc2Y5NmpoMzJybTFlb3c5aXR2dnU3bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding animation"/>
+<a href="tel:+79932260831">📞 +7 (993) 226-08-31</a> • 
+<a href="https://t.me/GalchenkoArtem">💬 Telegram: @GalchenkoArtem</a> • 
+<a href="mailto:galchenko.a.n@yandex.com">✉️ galchenko.a.n@yandex.com</a>
 </p>
 
 ---
 
-### 🛠️ Технологии
+### 🤝 О себе
+- Разрабатываю быстрые и надёжные веб-интерфейсы на **React + TypeScript**.
+- Люблю структурировать код (ESLint/Prettier, code-review чек-листы), разбивать фичи на модульные компоненты, следить за DX.
+- **Локация:** Химки (МО) • **Релокация по РФ:** да • **Командировки:** нет.
 
+---
+
+### 🛠 Технологии
 **Core:** React 18, TypeScript, Redux Toolkit / Dva.js, React Query, Next.js (App Router), Vite, Webpack  
 **UI:** Ant Design, Material UI, Tailwind CSS, SCSS  
 **Тесты:** Jest, React Testing Library, Cypress, Playwright  
 **Сервер и данные:** Node.js, Express.js, REST, PostgreSQL, MySQL  
-**DevOps:** GitHub Actions / GitLab CI, Swagger / OpenAPI  
+**DevOps:** GitHub Actions / GitLab CI, Swagger/OpenAPI
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" />
@@ -44,22 +46,40 @@
 
 ---
 
-### 💡 О себе
-- Разрабатываю быстрые и надёжные веб-интерфейсы на **React + TypeScript**.  
-- Люблю структурировать код (ESLint/Prettier, code-review чек-листы), разбивать фичи на модульные компоненты, следить за DX.  
-- **Локация:** Химки (МО)  •  **Релокация по РФ:** да  •  **Командировки:** нет  
+### 🏢 Опыт (коротко)
+**Старший разработчик — ООО «Неовокс Технологии» (12.2023–04.2025)**  
+React + AntD; стандартизировал Redux/Dva, внедрил ESLint/Prettier и чек-лист ревью. Оптимизировал TTI за счёт lazy-loading и code-splitting. Интеграции по Swagger/OpenAPI, стабилизировал критичные сценарии.  
+Стек: React, TS, AntD, Redux/Dva, Webpack, Swagger, GitLab CI, Jira.
+
+**Frontend-разработчик — ИнтехСофт (09.2022–11.2023)**  
+CRM: личный кабинет, главная, поиск и навигация по карте (API Яндекс.Карт). Unit/e2e-тесты (Jest, Cypress, Playwright).  
+Стек: React, TS, Redux Toolkit, Vite, MUI, Jest, Cypress, Playwright, GitLab CI, Jira.
+
+**Разработчик — SoftMediaLab (03.2022–08.2022)**  
+Внутренняя система задач: React-клиент, REST на Express.js, БД PostgreSQL (Sequelize), аутентификация.  
+Стек: React, TS, Node.js, Express, PostgreSQL, Sequelize, RTL.
 
 ---
 
-### 📊 GitHub статистика
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Galchenko-Artem&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&text_color=9f9f9f" height="160px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Galchenko-Artem&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=9f9f9f" height="160px" />
-</p>
+### 📌 Избранные проекты
+- <a href="https://github.com/Galchenko-Artem/dynamic-pagination">dynamic-pagination</a> — компоненты пагинации на TS/React.
+- <a href="https://github.com/Galchenko-Artem/technical-task">technical-task</a> — задачник/демо c тестами.
+- <a href="https://github.com/Galchenko-Artem/ton-wallet">ton-wallet</a> — экспериментальный кошелёк (TS/React).
+- <a href="https://github.com/Galchenko-Artem/nested-list">nested-list</a> — древовидные списки и операции с ними.
+- <a href="https://github.com/Galchenko-Artem/video-chat-app">video-chat-app</a> — видео-чат на веб-RTC/React.
+- <a href="https://github.com/Galchenko-Artem/video-player">video-player</a> — кастомный HTML5-плеер на TS.
+
+> Пины на главной синхронизированы с этим списком — открывайте репозитории для деталей.
+
+---
+
+### 🎯 Что ищу
+Постоянную роль **Frontend (React, TypeScript, Next.js)**: разработка интерфейсов, проектирование архитектуры, тестирование и интеграции. Готов подтвердить компетенции на интервью.
 
 ---
 
 ### 📬 Контакты
-📞 **Телефон:** +7 (993) 226-08-31  
-💬 **Telegram:** [@GalchenkoArtem](https://t.me/GalchenkoArtem)  
-✉️ **Email:** galchenko.a.n@yandex.com  
+- Телефон (предпочтительно): **+7 (993) 226-08-31**  
+- Telegram: **[@GalchenkoArtem](https://t.me/GalchenkoArtem)**  
+- Email: **galchenko.a.n@yandex.com**
+
