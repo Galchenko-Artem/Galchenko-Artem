@@ -1,15 +1,34 @@
-<h1 align="center">Hi 👋, I'm Artem</h1>
-<h3 align="center">Nice to meet you! My name is Artem and I'm a Frontend JS TS Developer.</h3>
-
-- 👨‍💻 All of my projects are available at [https://github.com/Galchenko-Artem](https://github.com/Galchenko-Artem)
-
-- 📫 How to reach me **artem.galchenko.88@gmail.com**
-
-- 📄 Know about my experiences [one year of freelancing](one year of freelancing)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1 align="center">Привет! Я — Артём 👋</h1>
+<p align="center">
+Frontend-разработчик (React, TypeScript) • 3+ года коммерческого опыта
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="tel:+79932260831">📞 +7 (993) 226-08-31</a> • 
+<a href="https://t.me/GalchenkoArtem">💬 Telegram: @GalchenkoArtem</a> • 
+<a href="mailto:galchenko.a.n@yandex.com">✉️ galchenko.a.n@yandex.com</a>
+</p>
+
+
+### 🤝 О себе
+- Разрабатываю быстрые и надёжные веб-интерфейсы на **React + TypeScript**.
+- Люблю структурировать код (ESLint/Prettier, code-review чек-листы), разбивать фичи на модульные компоненты, следить за DX.
+- **Локация:** Химки (МО) • **Релокация по РФ:** да • **Командировки:** нет.
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-764ABC?logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-App%20Router-000000?logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material%20UI-007FFF?logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-45BA4B?logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+</p>
