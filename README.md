@@ -9,6 +9,12 @@ Frontend-разработчик (React, TypeScript) • 3+ года коммер
 <a href="mailto:galchenko.a.n@yandex.com">✉️ galchenko.a.n@yandex.com</a>
 </p>
 
+### 🛠 Технологии
+**Core:** React 18, TypeScript, Redux Toolkit / Dva.js, React Query, Next.js (App Router), Vite, Webpack  
+**UI:** Ant Design, Material UI, Tailwind CSS, SCSS  
+**Тесты:** Jest, React Testing Library, Cypress, Playwright  
+**Сервер и данные:** Node.js, Express.js, REST, PostgreSQL, MySQL  
+**DevOps:** GitHub Actions / GitLab CI, Swagger/OpenAPI
 
 ### 🤝 О себе
 - Разрабатываю быстрые и надёжные веб-интерфейсы на **React + TypeScript**.
